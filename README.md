@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://krishi-buddy-ai.vercel.app/
+**URL**: https://krishi-mitra-ochre.vercel.app/
 
 ## What technologies are used for this project?
 
